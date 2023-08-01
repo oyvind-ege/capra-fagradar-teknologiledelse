@@ -7,6 +7,9 @@ Dataen til fagraderen er her: https://docs.google.com/spreadsheets/d/1ijgKkGvDoH
 ### Oppdater fagrader
 Eksporter Google spreadsheetet til csv og oppdater `radar.csv` under `/data` mappen.
 
+Det er viktig at kolonne-navnene forblir `name,ring,quadrant,isNew,description` og at dataen i `quadrant` og `ring`
+stemmer overens med `/graphing/config.js` sine `getQuadrants` og `getRings` data.
+
 ### Kjør lokalt:
 ```
 npm install

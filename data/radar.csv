@@ -1,0 +1,126 @@
+name,ring,quadrant,isNew,description
+Microservice Architecture,Bruk,Software Engineering,FALSE,
+Event Driven Architecture,2,Software Engineering,FALSE,There's absolutely nothing that is synchronous in this world
+Observability & monitoring,2,Software Engineering,FALSE,
+Data as first class citizen,3,Software Engineering,FALSE,
+Serverless Architecture,Bruk ,Software Engineering,FALSE,
+Domain Driven Design,1,Software Engineering,FALSE,
+OpenAPI,1,Backend,FALSE,Api Documentation
+Postgres,1,Backend,FALSE,sql database
+Micronaut,1,Backend,FALSE,webframework
+OAuth og OpenID Connect,1,Backend,FALSE,Sikkerhet
+REST API Level 1,1,Backend,FALSE,Resources
+REST API Level 2,1,Backend,FALSE,Verbs
+NoSQL,1,Backend,FALSE,"Databaser som feks, DynamoDB, MongoDB, Redis, Elasticsearch, Neo4j."
+Docker,1,Backend,FALSE,
+Java (ny),1,Backend,FALSE,Nyere Java v 11 og oppover.
+Kotlin ,1,Backend,FALSE,
+AWS ECS Fargate,1,Backend,FALSE,Serverless container service
+Spring Boot,1,Backend,FALSE,webframework - Både Spring Boot 2 og 3.
+Serverless Functions,1,Backend,FALSE,"AWS Lambda, etc."
+JUnit 5,1,Backend,FALSE,Test Framework
+Mockk,1,Backend,FALSE,Test Framework
+Python,1,Plattform,FALSE,Python er et språk som brukes overalt i AWS of ellers
+NodeJS,1,Backend,FALSE,Runtime
+NodeJS,1,Frontend,FALSE,Runtime
+AWS,1,Plattform,FALSE,
+HashiCorp Terraform,1,Plattform,FALSE,infrastructure as code.
+"Continuous Integration, Continuous Deployment",1,Plattform,FALSE,"Code Build, Code Deploy, Code pipeline, CircleCI, StepFunction"
+REST API Level 3,2,Backend,FALSE,Hypermedia
+Mysql,2,Backend,FALSE,sql database
+Redis,2,Backend,FALSE,in-memory cache database
+Quarkus,2,Backend,FALSE,webframework
+NewSQL,2,Backend,FALSE,Distribuerte RDBMS SaaS databaser.
+GraphQL,2,Backend,FALSE,
+Graph Databaser,2,Backend,FALSE,"Neptune, neo4j."
+Python,2,Backend,FALSE,Python er et språk som brukes overalt i AWS of ellers
+SQL DB,2,Backend,FALSE,RDS
+API Gateway,2,Backend,FALSE,
+Mockito,2,Backend,FALSE,Test Framework
+AssertJ,2,Backend,FALSE,Test Framework
+Kotest,2,Backend,FALSE,Test Framework
+.net 6+,2,Backend,FALSE,Language
+Feature Toggles,2,Frontend,FALSE,
+Feature Toggles,2,Backend,FALSE,
+Aurora,2,Backend,FALSE,Serverless Postgresql DB
+Kubernetes,2,Plattform,FALSE,Cloud agnostic container orchestration platform.
+Golang,2,Plattform,FALSE,
+Azure,2,Plattform,FALSE,
+Edge Computing,3,Backend,FALSE,
+Edge Computing,3,Frontend ,FALSE,
+HashiCorp Nomad,3,Backend,FALSE,Container orchestration
+AI driven discovery,3,Software Engineering,FALSE,AI kan ofte hjelpe med trege og slitsomme oppgaver som å søke etter og lese gjennom masse dokumentasjon. 
+Deno,3,Backend,FALSE,Runtime
+Deno,3,Frontend ,FALSE,Runtime
+Bun,3,Backend,FALSE,Runtime
+Bun,3,Frontend ,FALSE,Runtime
+AsyncAPI,3,Backend,FALSE,Api Documentation
+CockroachDB,3,Backend,FALSE,NoSQL DB
+GraalVM,3,Backend,FALSE,Native Compilation/JDK
+GitOps,3,Plattform,FALSE,
+GCP,3,Plattform,FALSE,
+CDK (For AWS/Terraform),3,Plattform,FALSE,infrastructure as code.
+OpenJDK CRaC,3,Backend,FALSE,Eks. AWS Lambda SnapStart
+REST API Level 0,4,Backend,FALSE,
+Jakarta EE ,4,Backend,FALSE,Gamle Java EE donert til Eclipse foundation.
+Java backends uten webrammeverk,4,Backend,FALSE,
+Java (gammel),4,Backend,FALSE,Java v 7- 11 legacy java.
+JUnit 4,4,Backend,FALSE,Test Framework
+Groovy,4,Backend,FALSE,Language
+Grails,4,Backend,FALSE,Web Framework
+Rust,3,Backend,FALSE,Language
+TypeScript,1,Frontend,FALSE,Typesystem for JavaScript
+React,1,Frontend,FALSE,UI-bibliotek
+Vue,2,Frontend,FALSE,UI-bibliotek
+Svelte,2,Frontend,FALSE,UI-bibliotek
+Remix,2,Frontend,FALSE,Meta-rammeverk
+NextJS,2,Frontend,FALSE,Meta-rammeverk
+CSS,1,Frontend,FALSE,Web standard
+JavaScript,1,Frontend,FALSE,Web standard
+HTML,1,Frontend,FALSE,Web standard
+SVG,2,Frontend,FALSE,Web standard
+WebAssembly,3,Frontend,FALSE,Web standard
+Web Components,2,Frontend,FALSE,Web standard
+PWA,2,Frontend,FALSE,Prinsipp/arkitektur
+DOM API,1,Frontend,FALSE,Web standard
+CSS-in-JS,2,Frontend,FALSE,Prinsipp/arkitektur
+CSS Modules,2,Frontend,FALSE,Web standard
+Houdini CSS,3,Frontend,FALSE,Web standard
+Vite,1,Frontend,FALSE,Byggverktøy
+RollupJS,2,Frontend,FALSE,Byggverktøy
+Webpack,4,Frontend,FALSE,Byggverktøy
+Turbo,3,Frontend,FALSE,Byggverktøy
+Lerna,3,Frontend,FALSE,Byggverktøy
+Universell utforming,1,Frontend,FALSE,
+Histoire,3,Frontend,FALSE,Dokumentasjonsverktøy
+Storybook,3,Frontend,FALSE,Dokumentasjonsverktøy
+Ladle,3,Frontend,FALSE,Dokumentasjonsverktøy
+Test Driven Development,2,Software Engineering,FALSE,
+"Testing (Unit, integration, performance, …)",1,Software Engineering,FALSE,
+Soft skills,2,Software Engineering,FALSE,
+Architecture patterns and why they work for what,2,Software Engineering,FALSE,
+Arkitekturmål og målarkitektur,2,Software Engineering,FALSE,
+Helsiktig / generell domene innsikt,2,Software Engineering,FALSE,
+Cloud Native,1,Software Engineering,FALSE,
+Rask læring,1,Software Engineering,FALSE,
+Draw.io,3,Software Engineering,FALSE,
+C4 model,3,Software Engineering,FALSE,
+Archimate,3,Software Engineering,FALSE,
+Continuous Discovery,3,Software Engineering,FALSE,
+Data mesh,3,Software Engineering,FALSE,
+Vitest,2,Frontend,FALSE,Testrammeverk
+Cypress,2,Frontend,FALSE,Testrammeverk
+Rendering patterns,1,Frontend,FALSE,SPA/SSR/etc
+Design patterns,1,Frontend,FALSE,Prinsipp/arkitektur
+Performance patterns,2,Frontend,FALSE,Prinsipp/arkitektur
+Frontend Arkitektur,1,Frontend,FALSE,Prinsipp/arkitektur
+Test patterns,1,Frontend,FALSE,Prinsipp/arkitektur
+Design tokens,3,Frontend,FALSE,Prinsipp/arkitektur
+NPM,1,Frontend,FALSE,Byggsteg
+SCSS,4,Frontend,FALSE,CSS extension
+Deno,3,Frontend,FALSE,Runtime
+Playwright,3,Frontend,FALSE,Testrammeverk
+Less,4,Frontend,FALSE,CSS extension
+Jest,4,Frontend,FALSE,Testrammeverk
+Tailwind,2,Frontend,FALSE,CSS rammeverk
+Testing Library,3,Frontend,FALSE,Testing utilities

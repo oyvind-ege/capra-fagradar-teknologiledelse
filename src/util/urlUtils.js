@@ -14,8 +14,9 @@ function constructSheetUrl(sheetName) {
 }
 
 function getDocumentOrSheetId() {
-  const queryParams = QueryParams(window.location.search.substring(1))
-  return queryParams.documentId ?? queryParams.sheetId
+  // const queryParams = QueryParams(window.location.search.substring(1))
+  // return queryParams.documentId ?? queryParams.sheetId
+  return config().sheetUrl; // Override to force only our csv to load.
 }
 
 function getSheetName() {

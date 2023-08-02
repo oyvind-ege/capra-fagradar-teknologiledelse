@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "radar_bucket" {
-  bucket = "capra-radar-${data.aws_caller_identity.current.account_id}"
+  bucket = var.s3_bucket_name
 }
 
 resource "aws_s3_bucket_website_configuration" "bucket_website_config" {

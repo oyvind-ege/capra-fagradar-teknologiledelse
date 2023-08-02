@@ -13,4 +13,6 @@ provider "aws" {
 
 module "radar_website" {
   source = "./../"
+
+  s3_bucket_name = "capra-radar-120532771136"
 }

@@ -4,10 +4,10 @@ const quadrantGap = 32
 const getQuadrants = () => {
   return (
     JSON.parse(process.env.QUADRANTS || null) || [
-      'Teamkompetanse',
-      'Organisasjonskompetanse',
-      'Teknisk kompetanse',
-      'Sosial kompetanse',
+      'Agile rammeverk',
+      'Organisasjonsutvikling',
+      'Ledelse',
+      'Teknisk praksis',
     ]
   )
 }

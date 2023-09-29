@@ -2,11 +2,11 @@ const quadrantSize = 512
 const quadrantGap = 32
 
 const getQuadrants = () => {
-  return JSON.parse(process.env.QUADRANTS || null) || ['Backend', 'Frontend', 'Software Engineering', 'Plattform']
+  return JSON.parse(process.env.QUADRANTS || null) || ['Teamkompetanse', 'Organisasjonskompetanse', 'Teknisk kompetanse', 'Sosial kompetanse']
 }
 
 const getRings = () => {
-  return JSON.parse(process.env.RINGS || null) || ['1', '2', '3', '4']
+  return JSON.parse(process.env.RINGS || null) || ['Grunnmur', 'Bruk', 'Vurder', 'Avstå']
 }
 
 const isBetween = (number, startNumber, endNumber) => {

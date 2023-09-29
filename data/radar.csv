@@ -1,19 +1,19 @@
 name,ring,quadrant,isNew,description
-Team Topologies,Grunnmur,Organisasjonskompetanse,TRUE,Team Topologies er grunnlaget.
-Flight levels,Grunnmur,Organisasjonskompetanse,TRUE,
-DORA-metrikker,Grunnmur,Organisasjonskompetanse,TRUE,
-Systems Thinking,Bruk,Organisasjonskompetanse,TRUE,
-Agile Systems Coach,Bruk,Organisasjonskompetanse,TRUE,
-OKR: målstyring og målsetting,Bruk,Organisasjonskompetanse,TRUE,
-Kanban,Grunnmur,Teamkompetanse,TRUE,"Kanban er sjelen i smidig utvikling, og våre teknologiledere har solid kunnskap og kompetanse om dette."
-Gruppedynamikk og teamutvikling,Grunnmur,Teamkompetanse,TRUE,Et godt team er en forutsetning for suksess og gode arbeidsplasser. Våre teknologiledere vet hvordan man skaper psykologisk trygghet og god gruppedynamikk.
-Scrum,Bruk,Teamkompetanse,TRUE,Scrum er et populært og lettvektig rammeverk for smidig utvikling. Capras teknologiledere har god kunnskap og erfaring med dette.
-Trunk-based development,Grunnmur,Teknisk kompetanse,TRUE,Trunk-based development er en forutsetning for velykkete IT-prosjekter
-Domain-driven design,Grunnmur,Teknisk kompetanse,TRUE,Våre teknologiledere...
-Software Engineering,Grunnmur,Teknisk kompetanse,TRUE,"Teknologiledere i Capra er menneskekjennere, men har også kjennskap til praksiser og prinsipper som skaper skalerbare løsninger innen komplekse domener."
-Test-Dreven Utvikling,Bruk,Teknisk kompetanse,TRUE,Test-dreven utvikling er en forutsetning for hurtige leveranser. Capras teknologiledere har erfaring og kunnskap om hvordan dette fungerer i praksis.
-X-wing modellen (Situasjonsbasert ledelse),Grunnmur,Sosial kompetanse,TRUE,"Våre teknologiledere tilpasser lederstilen etter situasjonen, og kan innta både coaching- og mentorroller. De er likevel ikke redde for å ta i et tak og innta en mer tradisjonelle lederrolle når det kreves."
-Workshop- og møtefasilitering,Grunnmur,Sosial kompetanse,TRUE,Vi verdsetter en evne til å tilrettelegge for gode diskusjoner og godt samarbeid - uten at vi selv tar en aktiv del i diskusjonene.
-Interessenthåndtering,Grunnmur,Sosial kompetanse,TRUE,"Våre teknologiledere er flinke til å identifisere interessenter, og har et bevisst forhold til hvordan de skal samarbeide med disse."
-Presentasjonsteknikk,Bruk,Sosial kompetanse,TRUE,"En god presentasjon, formidlet på en engasjerende måte, er ofte nøkkelen til sukssess."
-Selvledelse,Bruk,Sosial kompetanse,TRUE,"Våre teknologiledere tar vare på seg selv og andre, og har kunnskap og vaner som underbygger god mental helse - selv under høyt arbeidspress."
+Team Topologies,Bruk,Organisasjonskompetanse,TRUE,Team Topologies er grunnlaget.
+Flight levels,Bruk,Organisasjonskompetanse,TRUE,
+DORA-metrikker,Bruk,Organisasjonskompetanse,TRUE,
+Systems Thinking,Vurder,Organisasjonskompetanse,TRUE,
+Agile Systems Coach,Vurder,Organisasjonskompetanse,TRUE,
+OKR: målstyring og målsetting,Vurder,Organisasjonskompetanse,TRUE,
+Kanban,Bruk,Teamkompetanse,TRUE,"Kanban er sjelen i smidig utvikling, og våre teknologiledere har solid kunnskap og kompetanse om dette."
+Gruppedynamikk og teamutvikling,Bruk,Teamkompetanse,TRUE,Et godt team er en forutsetning for suksess og gode arbeidsplasser. Våre teknologiledere vet hvordan man skaper psykologisk trygghet og god gruppedynamikk.
+Scrum,Vurder,Teamkompetanse,TRUE,Scrum er et populært og lettvektig rammeverk for smidig utvikling. Capras teknologiledere har god kunnskap og erfaring med dette.
+Trunk-based development,Bruk,Teknisk kompetanse,TRUE,Trunk-based development er en forutsetning for velykkete IT-prosjekter
+Domain-driven design,Bruk,Teknisk kompetanse,TRUE,Våre teknologiledere...
+Software Engineering,Bruk,Teknisk kompetanse,TRUE,"Teknologiledere i Capra er menneskekjennere, men har også kjennskap til praksiser og prinsipper som skaper skalerbare løsninger innen komplekse domener."
+Test-Dreven Utvikling,Vurder,Teknisk kompetanse,TRUE,Test-dreven utvikling er en forutsetning for hurtige leveranser. Capras teknologiledere har erfaring og kunnskap om hvordan dette fungerer i praksis.
+X-wing modellen (Situasjonsbasert ledelse),Bruk,Sosial kompetanse,TRUE,"Våre teknologiledere tilpasser lederstilen etter situasjonen, og kan innta både coaching- og mentorroller. De er likevel ikke redde for å ta i et tak og innta en mer tradisjonelle lederrolle når det kreves."
+Workshop- og møtefasilitering,Bruk,Sosial kompetanse,TRUE,Vi verdsetter en evne til å tilrettelegge for gode diskusjoner og godt samarbeid - uten at vi selv tar en aktiv del i diskusjonene.
+Interessenthåndtering,Bruk,Sosial kompetanse,TRUE,"Våre teknologiledere er flinke til å identifisere interessenter, og har et bevisst forhold til hvordan de skal samarbeide med disse."
+Presentasjonsteknikk,Vurder,Sosial kompetanse,TRUE,"En god presentasjon, formidlet på en engasjerende måte, er ofte nøkkelen til sukssess."
+Selvledelse,Vurder,Sosial kompetanse,TRUE,"Våre teknologiledere tar vare på seg selv og andre, og har kunnskap og vaner som underbygger god mental helse - selv under høyt arbeidspress."

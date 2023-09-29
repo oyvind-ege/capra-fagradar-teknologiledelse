@@ -1,11 +1,11 @@
-## Capra fagradar
+## Capra fagradar for teknologiledelse
 
 Basert på https://github.com/thoughtworks/build-your-own-radar med inspirasjon fra https://github.com/oslokommune/origo-teknologiradar.
 Lisensiert under AGPL-3.0.
 
 Dataen til fagraderen er her: https://docs.google.com/spreadsheets/d/1ijgKkGvDoHSC1DgF5oWlPRZQJvm23N5oz-ssY9ZJMRs
 
-### Oppdater fagrader-data
+### Oppdater fagradar-data
 Eksporter Google spreadsheetet til csv og oppdater `data/radar.csv`.
 
 Det er viktig at kolonne-navnene forblir `name,ring,quadrant,isNew,description` og at dataen i `quadrant` og `ring`

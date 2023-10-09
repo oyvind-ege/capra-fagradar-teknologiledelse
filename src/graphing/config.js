@@ -13,7 +13,7 @@ const getQuadrants = () => {
 }
 
 const getRings = () => {
-  return JSON.parse(process.env.RINGS || null) || ['Bruke', 'Prøve', 'Vurdere', 'Avstå']
+  return JSON.parse(process.env.RINGS || null) || ['Nivå 1', 'Nivå 2', 'Nivå 3', 'Nivå 4']
 }
 
 const isBetween = (number, startNumber, endNumber) => {
